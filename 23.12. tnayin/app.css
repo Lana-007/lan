@@ -1,0 +1,76 @@
+ .block{
+   margin: 20px 150px 1px;
+    width: 95%;
+    height: 600px;
+    
+    
+}
+.bajin{
+    margin: 0 10px;
+    border: 2px solid;
+    border-style: outset;
+    height: 70%;
+    width: 25%;
+    display: inline-block;
+}
+.ban{
+    float: left;
+    
+}
+.bajin img{
+    margin: 20px 10px 1px 10px;
+    width: 95%;
+    height: 30%;
+    object-fit: cover;
+    object-position: 30% 40%;
+    
+}
+.textContent{
+    width: 90%;
+    height: 45%;
+    text-align: left;
+    padding: 12px;
+}
+.textContent h3{
+    margin: 0;
+    font-size: 20px;
+    
+}
+.textContent p{
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+.textContent button{
+    display: block;
+    margin: left;
+    width: 140px;
+    height: 30px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    font-size: 15px;
+    background: none;
+    color: white;
+    background-color: black;
+}
+.bajinL{
+    margin: 10px 10px 10px 10px;
+    border: 2px solid;
+    border-style: outset;
+    height: 90%;
+    width: 25%;
+    display: inline-block;
+    text-align: left;
+    padding: 12px;
+    
+
+}
+.bajinL img{
+    border: 1px solid;
+    margin: 5px 5px 5px 5px;
+    width: 25%;
+    height: 15%;
+    object-fit: cover;
+    object-position: center;
+}
